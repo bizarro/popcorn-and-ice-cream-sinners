@@ -1,0 +1,10 @@
+{
+  "name": "popcorn-and-ice-cream-sinners",
+  "version": "1.0.0",
+  "devDependencies": {
+    "ejs": "^3.1.10"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
